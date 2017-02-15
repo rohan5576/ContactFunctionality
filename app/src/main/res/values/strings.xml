@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyContact</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Outgoing">OUTGOING</string>
+    <string name="incoming">INCOMING</string>
+    <string name="alllogs">ALLLOGS</string>
+    <string name="allContact">AllCONTACT</string>
+    <string name="misscall">MISSEDCALL</string>
+    <string name="calldrop">CALLDROP</string>
+</resources>
